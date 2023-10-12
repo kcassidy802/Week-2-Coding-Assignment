@@ -1,6 +1,55 @@
+
+/* changed the background color */
 #body {
-    background-color: aquamarine;
+    background-color: blanchedalmond;
 }
+/* centered text,underlined, font size changed, and added a shadow affect */
+#h1 {
+    text-align: center;
+    text-decoration:underline;
+    font-size: 50px;
+    text-shadow: 15px 15px 15px black;
+    color: red;
 
+}
+/* rounded edges on the image */
+#img1 {
+    border-radius: 25px;
 
+}
+/* to the edges in 40% to give a circular shape */
+#img2 {
+    border-radius: 40%;
+}
+/* added a blue border to the image */
+#img3 {
+    border: 5px solid blue;
+}
+/* size, family, weight, added a styled border */
+#p {
+    font-size: 25px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-weight: bolder;
+    border: 10px solid red;
+    border-style: dashed;
+}
+/* centered, changed font size, */
+#div {
+    text-align: center;
+    font-size: 40px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    border: 10px solid blue;
+    border-style: double;
+    
+}
+/* minor changes to our text to make it look neater */
+#h3 {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-weight: 300;
+}
+/* then just centered my little footer and changed background color*/
+#div2 {
+    text-align: center;
+    background-color: aliceblue;
+}
 

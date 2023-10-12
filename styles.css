@@ -1,3 +1,5 @@
+/* adjusted background color and added a background image and appropriately placed the image */
+
 body {
     background-color:antiquewhite white;
     background-image:url(https://thumbs.dreamstime.com/b/web-235077122.jpg);
@@ -29,7 +31,7 @@ img {
 }
 
 
-/* styled changing font family, size, color, and underlined*/
+/* styled changing font family, size, color, and underlined */
 h3 {
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     font-size: 40px;
@@ -38,19 +40,20 @@ h3 {
     text-decoration: underline;
 
 }
-/* styled the size, color,and added bold*/
+
+/* styled the size, color,and added bold */
 ul {
     font-size: 35px;
     color: darkblue;
     font-weight: bolder;
     
 }
-/* changed background color and centered*/
+/* changed background color and centered */
 h4 {
     background-color: lightblue;
     text-align: center;
 }
-/* centered text and changed font family type*/
+/* changed text family */
 div {
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
     
