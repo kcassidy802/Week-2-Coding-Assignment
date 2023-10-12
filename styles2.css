@@ -4,7 +4,7 @@
     background-color: lightblue;
 }
 
-/* centered, underline, position, font size, and color */
+/* Centered, underline, position, font size, and color */
 .h1 {
     text-align: center;
     text-decoration: underline;
@@ -13,7 +13,7 @@
     color: red;
 }
     
-/* put a border around the image, changed the width, height, alignment, and padding */
+/* Put a border around the image, changed the width, height, alignment, and padding */
 .img {
     border: 2px solid white;
     border-radius: 30px;
@@ -23,26 +23,28 @@
     padding: 10px;
 }
 
-/* changed font family, color, and size */
+/* Changed font family, color, and size */
 .h2 {
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     color: blue;
     font-size: 30px;
+    
 }
 
-/* focused table to center, changed font family and padding */
+/* Focused table to center, changed font family and padding and added box-shadow effect */
 .table {
     margin-left: auto;
     margin-right: auto;
     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
     padding: 20px;
+    box-shadow: 10px 10px 10px red; 
 }
 
 /* changed font family */
 .div {
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 }
-/* aligned center and changed background color */
+/*  Aligned center and changed background color */
 .h4{
     text-align: center;
     background-color: red;

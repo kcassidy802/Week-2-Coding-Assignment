@@ -40,6 +40,7 @@
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     border: 10px solid blue;
     border-style: double;
+    box-shadow: 15px 15px 15px red;
     
 }
 /* minor changes to our text to make it look neater */
