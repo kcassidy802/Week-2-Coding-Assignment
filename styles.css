@@ -1,0 +1,58 @@
+body {
+    background-color:antiquewhite white;
+    background-image:url(https://thumbs.dreamstime.com/b/web-235077122.jpg);
+    background-repeat: repeat-x;
+}
+
+/* In this section im going to be using selectors to style all my elements on the page */
+
+
+h1 {
+    color:  darkblack;
+    font-size: 60px;
+    
+}
+
+h2 {
+    font-size: 40px;
+    color: red;
+}
+
+
+/*I styled the image by changing the border radius which gives the edges a rounded affect */
+
+
+img {
+    border-radius: 20px;
+    height: 500px;
+    
+}
+
+
+/* styled changing font family, size, color, and underlined*/
+h3 {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 40px;
+    color: red;
+    text-align: center;
+    text-decoration: underline;
+
+}
+/* styled the size, color,and added bold*/
+ul {
+    font-size: 35px;
+    color: darkblue;
+    font-weight: bolder;
+    
+}
+/* changed background color and centered*/
+h4 {
+    background-color: lightblue;
+    text-align: center;
+}
+/* centered text and changed font family type*/
+div {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    
+}
+

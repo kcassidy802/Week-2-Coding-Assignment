@@ -1,0 +1,50 @@
+
+/* Changed background color */
+.background {
+    background-color: lightblue;
+}
+
+/* centered, underline, position, font size, and color */
+.h1 {
+    text-align: center;
+    text-decoration: underline;
+    position: relative;
+    font-size: 50px;
+    color: red;
+}
+    
+/* put a border around the image, changed the width, height, alignment, and padding */
+.img {
+    border: 2px solid white;
+    border-radius: 30px;
+    width: 750px;
+    height: 450px;
+    text-align: center;
+    padding: 10px;
+}
+
+/* changed font family, color, and size */
+.h2 {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: blue;
+    font-size: 30px;
+}
+
+/* focused table to center, changed font family and padding */
+.table {
+    margin-left: auto;
+    margin-right: auto;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    padding: 20px;
+}
+
+/* changed font family */
+.div {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+/* aligned center and changed background color */
+.h4{
+    text-align: center;
+    background-color: red;
+}
+
